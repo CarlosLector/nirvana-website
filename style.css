@@ -3,9 +3,12 @@ body{
     font-family:Arial, Helvetica, sans-serif
 }
 img {
-    margin: 20px;/*Espaço ao redor da imagem*/
-    padding: 10px;/*Espaço dentro  da imagem*/
-    border-radius: 20px;/*Bordas arredondadas*/
+  width: 100%;        /* Faz a imagem ocupar 100% da largura disponível */
+  height: auto;       /* Mantém a proporção da imagem */
+  margin: 20px;       /* Espaço ao redor da imagem */
+  padding: 10px;      /* Espaço dentro da imagem */
+  border-radius: 20px;/* Bordas arredondadas */
+
 } 
 h1 {
     font-family: 'Poppins',arial, sans-serif;/*Não sei se fez alguma diferença, mas vou deixar assim mesmo.*/
