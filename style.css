@@ -1,0 +1,57 @@
+body{
+    background-color:#FFFFE0;
+    font-family:Arial, Helvetica, sans-serif
+}
+img {
+    margin: 20px;/*Espaço ao redor da imagem*/
+    padding: 10px;/*Espaço dentro  da imagem*/
+    border-radius: 20px;/*Bordas arredondadas*/
+} 
+h1 {
+    font-family: 'Poppins',arial, sans-serif;/*Não sei se fez alguma diferença, mas vou deixar assim mesmo.*/
+} 
+p {
+    font-family:'Roboto', arial, sans-serif;/*Acho qeu não fez nemhuma diferença. depois eu vejo isso com mais calma.*/
+} 
+body,#container{
+    height: unset;/*  Remove qualquer limite de altura*/
+}
+video{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+} 
+video {
+    max-width: 100%;
+    height: 455;
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ 
+header{
+    width: 100%;
+    padding: 20px;
+} 
+h1{
+    margin-bottom: 20px;/*Espaço abaixo do titulo*/
+}
+p{
+    margin-top: 10px;/*Espaço acima do parágrafo*/
+} 
+body{
+    text-align: center;
+} 
+
+
+    
+
+    
+ 
+ 
