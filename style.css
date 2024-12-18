@@ -4,7 +4,7 @@ body{
 }
  img {
   width: 100%;        /* A imagem vai ocupar 100% da largura do contêiner */
-  max-width: 800px;   /* Limita a largura máxima a 800px (ajuste conforme necessário) */
+  max-width: 300px;   /* Limita a largura máxima a 800px (ajuste conforme necessário) */
   height: auto;       /* Mantém a proporção da imagem */
   margin: 20px;       /* Espaço ao redor da imagem */
   padding: 10px;      /* Espaço dentro da imagem */
