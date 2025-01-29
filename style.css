@@ -10,16 +10,6 @@ p {
     font-family:'Roboto', arial, sans-serif;/*Acho qeu não fez nemhuma diferença. depois eu vejo isso com mais calma.*/
 } 
 
-video{
-    margin: 20px;
-    padding: 10px;
-    border-radius: 30px;
-} 
-video {
-    max-width: 100%;
-    height: 300;
-    box-sizing: border-box;
-}
 
  {
     margin: 0;
