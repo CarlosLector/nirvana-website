@@ -52,8 +52,19 @@ body{
 }
 .imagem-destaque:hover{
     transform: scale(1.05); /* Aumenta levemente a imagem ao passar o mouse*/
-} 
-    
+}
+.video-destaque{
+    display:block;
+    margin:20px auto; /*Centraliza horizontalmente*/
+    width: 200px;/*Ajusta o tamanho do video*/
+    border:5px solid black;/*Adiciona uma borda*/
+    border-radius:15px;/*Deixa os cantos arredondados*/
+    transition:transform 0.3s ease;/*Animação suave no hover*/
+}
+.video-destaque:hover{
+    transform: scale(1.05); /* Aumenta levemente o video ao passar o mouse*/
+}
+
     
     
 
