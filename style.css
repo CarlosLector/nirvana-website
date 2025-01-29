@@ -54,6 +54,7 @@ body{
 }
 .imagem-destaque:hover{
     transform: scale(1.05); /* Aumenta levemente a imagem ao passar o mouse*/
+} 
     
     
     
