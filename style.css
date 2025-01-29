@@ -9,15 +9,6 @@ h1 {
 p {
     font-family:'Roboto', arial, sans-serif;/*Acho qeu não fez nemhuma diferença. depois eu vejo isso com mais calma.*/
 } 
-
-
- {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
  
 header{
     width: 100%;
@@ -46,7 +37,7 @@ body{
 .video-destaque{
     display:block;
     margin:20px auto; /*Centraliza horizontalmente*/
-    width: 200px;/*Ajusta o tamanho do video*/
+    width: 545px;/*Ajusta o tamanho do video*/
     border-radius:15px;/*Deixa os cantos arredondados*/
     transition:transform 0.3s ease;/*Animação suave no hover*/
 }
