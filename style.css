@@ -45,8 +45,8 @@ body{
     transform: scale(1.05); /* Aumenta levemente o video ao passar o mouse*/
 }
 .texto-destaque{
-    display:block
-    margin:200px auto
+    display:block;
+    margin:200px auto;
     transition:transform 0.3s ease;
 }
 .texto-destaque:hover{
