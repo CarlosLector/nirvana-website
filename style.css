@@ -46,12 +46,11 @@ body{
 }
 .texto-destaque{
     display:block;
-    margin:200px auto;
-    transition:transform 0.3s ease;
+    transition:transform 0.3 ease;
 }
 .texto-destaque:hover{
-    transform: scale(1.05);
-} 
+    transform: scale(1.5);
+}
 
     
     
