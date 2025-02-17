@@ -51,7 +51,7 @@ body{
     transition: transform 0.3 ease;
 }
 .texto-destaque:hover{
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
     
